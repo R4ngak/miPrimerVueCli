@@ -1,0 +1,7 @@
+##Resumen de comando
+1. npm install vue
+2. npm install -g @vue/cli
+3. npm audit
+4. vue create proyecto_inicial
+5. cd proyecto_inicial
+6. npm run serve
